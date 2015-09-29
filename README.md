@@ -2,7 +2,7 @@
 
 run with:
 
-set SELENIUM_BROWSER=firefox
+set SELENIUM_BROWSER=firefox/r/n
 set VELOCITY_DEBUG=1
 set VELOCITY=1
 set NODE_ENV=development
