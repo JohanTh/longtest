@@ -10,7 +10,7 @@ set VELOCITY=1
 
 set NODE_ENV=development
 
-cmd /k meteor run --port 3000
+cmd /k meteor run
 
 or
 
